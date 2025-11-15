@@ -1,0 +1,34 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "baraka-bliss-staycations",
+          "appId": "1:1040528876799:android:3a7312abe6ee47147918ca",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "baraka-bliss-staycations",
+          "configurations": {
+            "android": "1:1040528876799:android:3a7312abe6ee47147918ca",
+            "ios": "1:1040528876799:ios:17e766d4ae7c61937918ca",
+            "macos": "1:1040528876799:ios:17e766d4ae7c61937918ca",
+            "web": "1:1040528876799:web:887359868bb8e3f97918ca",
+            "windows": "1:1040528876799:web:44cb42b5c912a5b37918ca"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "nam5",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040528876799",
+    "project_id": "baraka-bliss-staycations",
+    "storage_bucket": "baraka-bliss-staycations.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040528876799:android:3a7312abe6ee47147918ca",
+        "android_client_info": {
+          "package_name": "com.example.baraka_bliss_staycations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQFUBLL4n-g2jzS5Laf3WVSvRRv6ix71Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
