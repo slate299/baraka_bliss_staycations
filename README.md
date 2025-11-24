@@ -113,6 +113,7 @@ Create a Firebase project and add:
 * Enable **Cloud Firestore**
 
 No Firebase Storage is required because images are Base64-encoded.
+
 ---
 
 ## 📌 Future Improvements
@@ -122,6 +123,26 @@ No Firebase Storage is required because images are Base64-encoded.
 * Payment integration (M-Pesa)
 * Admin dashboard
 * Push notifications
+
+---
+
+## 📸 Screenshots & Pitch Deck
+
+### Home Screen
+
+![Home Screen](assets/images/home_screen.png)
+
+### Apartment Listings Screen
+
+![Listings Screen](assets/images/listings_screen.png)
+
+### Add Apartment Screen
+
+![Add Apartment Screen](assets/images/add_apartment_screen.png)
+
+### Pitch Deck
+
+[View the full pitch deck on Canva](https://www.canva.com/design/DAG4wmWZ8cw/GhQyNNJwpSX1-ITGVzBFQQ/edit?utm_content=DAG4wmWZ8cw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -135,5 +156,7 @@ Special thanks to the PLP mentors and the Baraka Bliss code assistant.
 ## 🧑‍💻 Author
 
 **Natasha Wambui Hinga**
-Mobile app and Backend Developer
-Email: *[natashahinga58@gmail.com](mailto:natashahinga58@gmail.com)*
+Mobile App and Backend Developer
+Email: [natashahinga58@gmail.com](mailto:natashahinga58@gmail.com)
+
+If you want, I can **also add a small GIF or animated preview** for the home screen—it usually makes the README pop even more. Do you want me to do that?
