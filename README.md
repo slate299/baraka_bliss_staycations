@@ -1,5 +1,16 @@
 # 🌟 Baraka Bliss Staycations
 
+<table>
+  <tr>
+    <td width="150">
+      <img src="assets/logo/baraka_logo.png" alt="Baraka Bliss Logo" width="150"/>
+    </td>
+    <td>
+      <img src="assets/assets/images/baraka_home.jpg" alt="Home Screen" width="400"/>
+    </td>
+  </tr>
+</table>
+
 ### *A Modern Flutter App for Discovering and Booking Staycation Apartments*
 
 Baraka Bliss Staycations is a mobile application designed to simplify the process of listing and booking apartments for short stays. The app allows property owners to upload apartments with images and features, while users can browse, explore, and book staycation spaces easily.
@@ -63,20 +74,22 @@ This project was built as part of the **Power Learn Project – July 2025 Cohort
 ## 📁 Project Structure
 
 ```
+
 lib/
- ├── models/
- │    └── apartment.dart
- ├── screens/
- │    ├── home_screen.dart
- │    ├── add_apartment_screen.dart
- │    ├── apartment_detail_screen.dart
- ├── widgets/
- │    ├── apartment_card.dart
- │    └── add_apartment_form.dart
- ├── services/
- │    └── firestore_service.dart
- └── main.dart
-```
+├── models/
+│    └── apartment.dart
+├── screens/
+│    ├── home_screen.dart
+│    ├── add_apartment_screen.dart
+│    ├── apartment_detail_screen.dart
+├── widgets/
+│    ├── apartment_card.dart
+│    └── add_apartment_form.dart
+├── services/
+│    └── firestore_service.dart
+└── main.dart
+
+````
 
 ---
 
@@ -87,7 +100,7 @@ lib/
 ```bash
 git clone https://github.com/GraceHinga/baraka-bliss-staycations.git
 cd baraka-bliss-staycations
-```
+````
 
 ### 2️⃣ Install Dependencies
 
@@ -130,15 +143,15 @@ No Firebase Storage is required because images are Base64-encoded.
 
 ### Home Screen
 
-![Home Screen](assets/images/home_screen.png)
+![Home Screen](assets/assets/images/baraka_home.jpg)
 
 ### Apartment Listings Screen
 
-![Listings Screen](assets/images/listings_screen.png)
+![Listings Screen](assets/assets/images/apartment_listings.jpg)
 
 ### Add Apartment Screen
 
-![Add Apartment Screen](assets/images/add_apartment_screen.png)
+![Add Apartment Screen](assets/assets/images/add_apartment.jpg)
 
 ### Pitch Deck
 
@@ -158,5 +171,3 @@ Special thanks to the PLP mentors and the Baraka Bliss code assistant.
 **Natasha Wambui Hinga**
 Mobile App and Backend Developer
 Email: [natashahinga58@gmail.com](mailto:natashahinga58@gmail.com)
-
-If you want, I can **also add a small GIF or animated preview** for the home screen—it usually makes the README pop even more. Do you want me to do that?
